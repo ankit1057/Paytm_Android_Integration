@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="R:\PaytmIntegration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="R:\PaytmIntegration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0bef4afdb946a3837fc7b61a3a11ffa51f9133d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="R:\PaytmIntegration\app\libs\PGSDK_V2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b49db2b817fe96cba5c26fb814cfc7f5b2803a82">
+        <dex dex="R:\PaytmIntegration\app\build\intermediates\transforms\dex\debug\folders\1000\2\PGSDK_V2.1_a4bc30661d66d32cfbb775721776a302820f44a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="R:\PaytmIntegration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="498f680ecbc86a765daced73f7fded50870cffa7">
+        <dex dex="R:\PaytmIntegration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_209428e5a8917f7d5b1f0684f0f098acbd8cbb26\classes.dex" />
+    </item>
+
+</items>

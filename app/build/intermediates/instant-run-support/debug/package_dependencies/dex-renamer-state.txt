@@ -1,0 +1,16 @@
+#Tue Oct 10 12:22:26 IST 2017
+renamed.4=classes.dex
+renamed.3=classes3.dex
+renamed.2=classes5.dex
+renamed.1=classes4.dex
+base.4=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d9c2d717ef9cf2f4322ed184030b3f7bb17d0618
+renamed.0=classes2.dex
+base.3=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_d4bb789155978595fd15ff98268f81c4b0cbc0f3
+base.2=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\PGSDK_V2.1_a4bc30661d66d32cfbb775721776a302820f44a6
+base.1=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_edc0a745afed55c774ae9c4fbfb56de241ff2f1a
+base.0=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dab1c40771b44fda78d77997689e1c1bd059b0e9
+file.4=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d9c2d717ef9cf2f4322ed184030b3f7bb17d0618\\classes.dex
+file.3=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_d4bb789155978595fd15ff98268f81c4b0cbc0f3\\classes.dex
+file.2=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\PGSDK_V2.1_a4bc30661d66d32cfbb775721776a302820f44a6\\classes.dex
+file.1=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_edc0a745afed55c774ae9c4fbfb56de241ff2f1a\\classes.dex
+file.0=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dab1c40771b44fda78d77997689e1c1bd059b0e9\\classes.dex

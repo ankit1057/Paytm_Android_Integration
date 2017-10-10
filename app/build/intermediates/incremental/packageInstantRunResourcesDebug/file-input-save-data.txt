@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Oct 10 12:22:14 IST 2017
+1.base=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.base=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\merchantapp.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=R\:\\PaytmIntegration\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Tue Oct 10 12:22:27 IST 2017
+base.0=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_209428e5a8917f7d5b1f0684f0f098acbd8cbb26
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0bef4afdb946a3837fc7b61a3a11ffa51f9133d\\classes.dex
+base.1=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0bef4afdb946a3837fc7b61a3a11ffa51f9133d
+file.0=R\:\\PaytmIntegration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_209428e5a8917f7d5b1f0684f0f098acbd8cbb26\\classes.dex
